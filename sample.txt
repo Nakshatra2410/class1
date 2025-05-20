@@ -1,3 +1,7 @@
 first line
 second line from new_branch
+<<<<<<< HEAD
 third line from master
+=======
+third line from conflict_branch
+>>>>>>> conflict_branch
